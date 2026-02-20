@@ -10,3 +10,9 @@ class Employee:
 class Manager(Employee):
     def showdetails(self):
         print(f"Manager Name: {self.name}, Manager Age: {self.age}")
+
+e1= Employee("John", 30)
+e1.show()
+m1 = Manager("Alice", 40)
+m1.show()
+m1.showdetails()
