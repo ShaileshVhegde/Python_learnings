@@ -1,0 +1,1 @@
+# instense var vs class var means instance variable and class variable it is a variable that belongs to an instance of a class and a variable that belongs to the class itself.
